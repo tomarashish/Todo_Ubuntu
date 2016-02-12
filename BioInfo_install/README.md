@@ -1,2 +1,2 @@
-### To install bioinformatics softwares in Ubuntu 15.10
+### Bioinformatics softwares in Ubuntu 15.10
 
